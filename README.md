@@ -1,8 +1,4 @@
-<div style="background: linear-gradient(to right, #0f0f0f, #1a0033); padding: 20px; border-radius: 10px; border: 1px solid #8a2be2; box-shadow: 0 0 20px #8a2be2;">
-
-<div style="display:flex; font-size: 1.6rem;">
-<span style="margin-right:10px; background: linear-gradient(to right, #ff00ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mystyvyy</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</div>
+# Zero0blanK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=25&vCenter=true&height=130&width=600&lines=Welcome+to+my+profile;Just+a+chill+dev+doing+what+I+love,;one+line+of+code+(or+coffee)+at+a+time.;Web+Developer+and+Tech+Enthusiast&pause=300&width=600&duration=2000&multiline=true)](https://git.io/typing-svg)
 
