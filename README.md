@@ -4,7 +4,7 @@
 
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/> </div>
 
-## _SYSTEM::USER_PROFILE_  <img src="https://komarev.com/ghpvc/?username=Zero0blanK&label=%20Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views">
+## USER PROFILE  <img src="https://komarev.com/ghpvc/?username=Zero0blanK&label=%20Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views">
 
 Hi! I'm Mystyvyy, a 20-year-old from the Philippines. I'm currently a 3rd-year Computer Science student, passionate about tech, coding, and gaming.
 
@@ -38,7 +38,7 @@ When I'm not coding, you'll find me:
 
 I always pushing myself to learn more to keep up the latest trend.
 
-## _SYSTEM::CERTIFICATIONS_
+## CERTIFICATIONS
 
 <div>
   <img src="https://img.shields.io/badge/CERTIFIED-ITS%20DATABASES-00758F?style=for-the-badge&logo=microsoft&logoColor=white" alt="ITS Databases"/>
@@ -48,7 +48,7 @@ I always pushing myself to learn more to keep up the latest trend.
   <div>Information Technology Specialist in Java</div>
 </div>
 
-## _SYSTEM::PROJECTS_
+## PROJECTS
 
 <div align="center">
   <a href="https://github.com/Zero0blanK/high-elevation-web">
@@ -61,7 +61,7 @@ I always pushing myself to learn more to keep up the latest trend.
   <p>More projects coming soon...</p>
 </div>
 
-## _SYSTEM::TECH_STACK_
+## TECH STACK
 
 <details open>
 <summary>💻 Programming Languages</summary>
@@ -117,7 +117,7 @@ I always pushing myself to learn more to keep up the latest trend.
 </p>
 </details>
 
-## _SYSTEM::STATS_
+## STATS
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zero0blanK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -129,7 +129,7 @@ I always pushing myself to learn more to keep up the latest trend.
 </div>
 
 
-## _SYSTEM::CURRENT_STATUS_
+## CURRENT STATUS
 
 ### 📚 Currently Learning
 - Advanced Web Development
