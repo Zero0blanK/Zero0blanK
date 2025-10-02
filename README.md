@@ -48,19 +48,6 @@ I always pushing myself to learn more to keep up the latest trend.
   <div>Information Technology Specialist in Java</div>
 </div>
 
-## PROJECTS
-
-<div align="center">
-  <a href="https://github.com/Zero0blanK/high-elevation-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero0blanK&repo=high-elevation-web&theme=radical" />
-  </a>
-  <a href="https://github.com/Zero0blanK/odin-web-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero0blanK&repo=odin-web-calculator&theme=radical" />
-  </a>
-  
-  <p>More projects coming soon...</p>
-</div>
-
 ## TECH STACK
 
 <details open>
